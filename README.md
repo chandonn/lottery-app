@@ -1,2 +1,2 @@
 # lottery-app
-React app to interact with a lottery smart contract built with Solidity and deployed to BSC testnet
+Lottery smart contract created with Solidity, with a Reactjs app to interact with it.
